@@ -1,0 +1,43 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.footer{
+    background-color: rgb(75, 75, 152);
+    color: rgb(206, 206, 244);
+    width: 100%;
+    height: 50px;
+    font-size: medium;
+    font-style: italic;
+text-align: center;
+font-weight: 700;
+padding: 5px;
+}
+
+.backToTop{
+    background-color: rgb(106, 106, 146);
+   
+    width: 100%;
+    height: 35px;
+    display: flex;
+     justify-content: center;
+   
+
+
+}
+.backToTop a{
+    text-decoration: none;
+    color: rgb(241, 241, 248);
+    font-size: medium;
+    font-style: italic;
+text-align: center;
+padding: 5px;
+}
+
+.backToTop a:hover { 
+   color: rgb(74, 141, 212);
+ }
